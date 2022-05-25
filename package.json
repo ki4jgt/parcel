@@ -1,0 +1,17 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "P2P news publishing platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KI4JGT",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.17.3",
+    "ipfs": "^0.62.1",
+    "multer": "^1.4.4",
+    "pug": "^3.0.2"
+  }
+}
